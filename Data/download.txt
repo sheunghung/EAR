@@ -1,0 +1,6 @@
+Dataset Download
+
+The modified dataset can be downloaded from Google Drive.
+
+The original dataset is sourced from:
+https://github.com/wjk0925/slt2024-speechllm-speaker-understanding/tree/main/what_do_you_like
