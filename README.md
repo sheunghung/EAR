@@ -1,5 +1,5 @@
 # EAR
-The core code and data for **Pardon? Evaluating Conversational Repair in Large Audio-Language Models**
+The core code and data for **[Pardon? Evaluating Conversational Repair in Large Audio-Language Models](https://arxiv.org/abs/2601.12973)**
 
 ## Dataset
 
